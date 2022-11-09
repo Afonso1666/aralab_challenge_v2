@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Chamber One",
+        "type": "TESTA 300 -45ºC",
+        "status": "online",
+        "current_temperature": 52.8,
+        "set_temperature": 53,
+        "current_humidity": 70,
+        "set_humidity": 70
+    },
+    {
+        "id": 2,
+        "name": "Chamber Two",
+        "type": "TESTA 300 -45ºC",
+        "status": "online",
+        "current_temperature": -10,
+        "set_temperature": -10,
+        "current_humidity": 23.2,
+        "set_humidity": null
+    },
+    {
+        "id": 3,
+        "name": "Chamber Three",
+        "type": "FITOCLIMA 600 PH",
+        "status": "online",
+        "current_temperature": 12,
+        "set_temperature": 13,
+        "current_humidity": 49,
+        "set_humidity": null
+    },
+    {
+        "id": 4,
+        "name": "Chamber Four",
+        "type": "FITOCLIMA 1200 PLH",
+        "status": "online",
+        "current_temperature": 25,
+        "set_temperature": 25,
+        "current_humidity": 60,
+        "set_humidity": 60
+    }
+]
